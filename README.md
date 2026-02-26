@@ -2,6 +2,7 @@
 # open-prompt-wiki
 
 Repositorio de prompts listos para usar, diseñados para acelerar y mejorar el desarrollo de aplicaciones con inteligencia artificial. Cada prompt está pensado para cubrir una fase clave del ciclo de vida de una app: arquitectura, construcción, debugging, revisión, refactorización, testing y documentación.
+Basado en la GUIA PRÁCTICA 2026 de Big School: 7 Prompts para Programar Más Rápido
 
 ## Prompts disponibles
 
