@@ -1,10 +1,5 @@
 Actua como un ingeniero de rendimiento y clean code especializado en [tu lenguaje/framework]. Necesito que refactorices el siguiente código. Funciona, pero necesita mejorar.
 
->_PROMPT LISTO PARA USAR
-Código que funciona no es lo mismo que buen código. Este prompt toma código funcional y lo transforma en código que es más rápido, más legible y más fácil de mantener, sin romper nada.
-
-REFACTORING RENDIMIENTO CLEAN CODE ESCALABILIDAD
-
 ## Código actual
 ```
 [Pega aquí el código que funciona pero quieres mejorar]
@@ -15,6 +10,11 @@ REFACTORING RENDIMIENTO CLEAN CODE ESCALABILIDAD
 
 ## Qué me preocupa
 [Elige uno o varios: "Es lento" / "Es difícil de leer" / "Es difícil de extender" / "No estoy seguro de que escale" / "Hay mucha duplicación"]
+
+## Reglas de refactor
+1.No cambiar el comportamiento externo. La entrada y salida deben seguir siendo exactamente las mismas.
+2.Explicar cada cambio. No quiero código nuevo sin entender que  cambiaste y por qué.
+3.Mostrar el antes y después de cada bloque modificado.
 
 ## Entrega
 - Código refactorizado completo.
